@@ -146,6 +146,7 @@ aynı dosyaya okuma ve yazma işlemi yapabilirler
 		All file locks held by the process are released
 
 - Peki Normal olmayan şartlarda bir process nasıl terminate edilir?
+	sinyallerle (SIGKILL etc.)
 
 
 
